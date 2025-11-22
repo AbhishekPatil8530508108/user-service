@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: container1
-          image:  abhishekpatil1008/user-service:v5
+          image:  abhishekpatil1008/user-service:v6
           ports:
             - containerPort: 4000
