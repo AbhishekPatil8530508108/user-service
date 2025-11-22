@@ -7,7 +7,7 @@ app.get('/', (request, response) => {
 })
 
 app.post('/user/register', (request, response) => {
-  response.send('registration successful')
+  response.send('registration successful bro')
 })
 
 app.post('/user/login', (request, response) => {
